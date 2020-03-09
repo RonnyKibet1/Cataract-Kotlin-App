@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cataract</string>
+    <string name="ADMOB_APP_ID_BANNER">GET FROM ADMOB</string>
+    <string name="AD_UNIT_ID_BANNER">GET FROM ADMOB</string>
+    <string name="ADMOB_APP_ID_INTERSTITIAL">GET FROM ADMOB</string>
+    <string name="AD_UNIT_ID_INTERSTITIAL">GET FROM ADMOB</string>
+    <string name="send_to">Send using...</string>
+</resources>
